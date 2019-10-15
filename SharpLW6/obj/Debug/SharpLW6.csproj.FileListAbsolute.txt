@@ -1,0 +1,6 @@
+C:\Users\a_sas\source\repos\SharpLW\SharpLW6\bin\Debug\SharpLW6.exe.config
+C:\Users\a_sas\source\repos\SharpLW\SharpLW6\bin\Debug\SharpLW6.exe
+C:\Users\a_sas\source\repos\SharpLW\SharpLW6\bin\Debug\SharpLW6.pdb
+C:\Users\a_sas\source\repos\SharpLW\SharpLW6\obj\Debug\SharpLW6.csproj.CoreCompileInputs.cache
+C:\Users\a_sas\source\repos\SharpLW\SharpLW6\obj\Debug\SharpLW6.exe
+C:\Users\a_sas\source\repos\SharpLW\SharpLW6\obj\Debug\SharpLW6.pdb

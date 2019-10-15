@@ -1,0 +1,7 @@
+C:\Users\a_sas\source\repos\SharpLW\SharpLW3\bin\Debug\SharpLW3.exe.config
+C:\Users\a_sas\source\repos\SharpLW\SharpLW3\bin\Debug\SharpLW3.exe
+C:\Users\a_sas\source\repos\SharpLW\SharpLW3\bin\Debug\SharpLW3.pdb
+C:\Users\a_sas\source\repos\SharpLW\SharpLW3\obj\Debug\SharpLW3.csproj.CoreCompileInputs.cache
+C:\Users\a_sas\source\repos\SharpLW\SharpLW3\obj\Debug\SharpLW3.exe
+C:\Users\a_sas\source\repos\SharpLW\SharpLW3\obj\Debug\SharpLW3.pdb
+C:\Users\a_sas\source\repos\SharpLW\SharpLW3\obj\Debug\SharpLW3.csprojAssemblyReference.cache
