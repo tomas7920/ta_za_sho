@@ -1,0 +1,7 @@
+C:\Users\a_sas\source\repos\SharpLW\CSharpLW752\bin\Debug\CSharpLW752.exe.config
+C:\Users\a_sas\source\repos\SharpLW\CSharpLW752\bin\Debug\CSharpLW752.exe
+C:\Users\a_sas\source\repos\SharpLW\CSharpLW752\bin\Debug\CSharpLW752.pdb
+C:\Users\a_sas\source\repos\SharpLW\CSharpLW752\obj\Debug\CSharpLW752.csprojAssemblyReference.cache
+C:\Users\a_sas\source\repos\SharpLW\CSharpLW752\obj\Debug\CSharpLW752.csproj.CoreCompileInputs.cache
+C:\Users\a_sas\source\repos\SharpLW\CSharpLW752\obj\Debug\CSharpLW752.exe
+C:\Users\a_sas\source\repos\SharpLW\CSharpLW752\obj\Debug\CSharpLW752.pdb

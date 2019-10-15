@@ -1,0 +1,6 @@
+C:\Users\a_sas\source\repos\SharpLW\CSharp762\bin\Debug\CSharp762.exe.config
+C:\Users\a_sas\source\repos\SharpLW\CSharp762\bin\Debug\CSharp762.exe
+C:\Users\a_sas\source\repos\SharpLW\CSharp762\bin\Debug\CSharp762.pdb
+C:\Users\a_sas\source\repos\SharpLW\CSharp762\obj\Debug\CSharp762.csproj.CoreCompileInputs.cache
+C:\Users\a_sas\source\repos\SharpLW\CSharp762\obj\Debug\CSharp762.exe
+C:\Users\a_sas\source\repos\SharpLW\CSharp762\obj\Debug\CSharp762.pdb
