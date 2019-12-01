@@ -1,0 +1,7 @@
+C:\Users\a_sas\source\repos\SharpLW\CSharpLW9\bin\Debug\CSharpLW9.exe.config
+C:\Users\a_sas\source\repos\SharpLW\CSharpLW9\bin\Debug\CSharpLW9.exe
+C:\Users\a_sas\source\repos\SharpLW\CSharpLW9\bin\Debug\CSharpLW9.pdb
+C:\Users\a_sas\source\repos\SharpLW\CSharpLW9\obj\Debug\CSharpLW9.csprojAssemblyReference.cache
+C:\Users\a_sas\source\repos\SharpLW\CSharpLW9\obj\Debug\CSharpLW9.csproj.CoreCompileInputs.cache
+C:\Users\a_sas\source\repos\SharpLW\CSharpLW9\obj\Debug\CSharpLW9.exe
+C:\Users\a_sas\source\repos\SharpLW\CSharpLW9\obj\Debug\CSharpLW9.pdb
