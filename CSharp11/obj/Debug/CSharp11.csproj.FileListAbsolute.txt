@@ -1,0 +1,7 @@
+C:\Users\a_sas\source\repos\SharpLW\CSharp11\bin\Debug\CSharp11.exe.config
+C:\Users\a_sas\source\repos\SharpLW\CSharp11\bin\Debug\CSharp11.exe
+C:\Users\a_sas\source\repos\SharpLW\CSharp11\bin\Debug\CSharp11.pdb
+C:\Users\a_sas\source\repos\SharpLW\CSharp11\obj\Debug\CSharp11.csprojAssemblyReference.cache
+C:\Users\a_sas\source\repos\SharpLW\CSharp11\obj\Debug\CSharp11.csproj.CoreCompileInputs.cache
+C:\Users\a_sas\source\repos\SharpLW\CSharp11\obj\Debug\CSharp11.exe
+C:\Users\a_sas\source\repos\SharpLW\CSharp11\obj\Debug\CSharp11.pdb

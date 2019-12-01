@@ -1,0 +1,2 @@
+C:\Users\a_sas\source\repos\SharpLW\CSharp112\obj\Debug\CSharp112.csprojAssemblyReference.cache
+C:\Users\a_sas\source\repos\SharpLW\CSharp112\obj\Debug\CSharp112.csproj.CoreCompileInputs.cache
