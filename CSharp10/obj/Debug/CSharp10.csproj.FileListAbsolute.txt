@@ -1,0 +1,7 @@
+C:\Users\a_sas\source\repos\SharpLW\CSharp10\bin\Debug\CSharp10.exe.config
+C:\Users\a_sas\source\repos\SharpLW\CSharp10\bin\Debug\CSharp10.exe
+C:\Users\a_sas\source\repos\SharpLW\CSharp10\bin\Debug\CSharp10.pdb
+C:\Users\a_sas\source\repos\SharpLW\CSharp10\obj\Debug\CSharp10.csprojAssemblyReference.cache
+C:\Users\a_sas\source\repos\SharpLW\CSharp10\obj\Debug\CSharp10.csproj.CoreCompileInputs.cache
+C:\Users\a_sas\source\repos\SharpLW\CSharp10\obj\Debug\CSharp10.exe
+C:\Users\a_sas\source\repos\SharpLW\CSharp10\obj\Debug\CSharp10.pdb
